@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**anuragjain-git/anuragjain-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love Coding as much as I do? Let's talk about how awesome they are!
 
-Here are some ideas to get you started:
+<h1>What I'm Focusing on 🌱</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m currently learning about Back-End Development and improving my Front-End Skills. 
+- 💬 Let's talk about Blockchain, Web3, VR, Problem Solving Algorithm.
+
+<h1>About ME 🤔</h1>
+
+- 💻⌨️
+- 📚🕮
+- 🌏✈️
+- ✍️📓
+
+<h1>Social 📫</h1>
+<a href="https://www.twitter.com/a_nuragjain">Twitter</a>
+<a href="https://www.twitter.com/a_nuragjain">Instagram</a>
+<a href="https://www.linkedin.com/in/anuragjain-in">Linkedin</a>
+<a href="https://t.me/a_nuragjain">Telegram</a>
+<a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">Youtube</a>
+- ⚡ 
