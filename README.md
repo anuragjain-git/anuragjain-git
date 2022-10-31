@@ -15,8 +15,7 @@
 - ✍️📓
 
 # Social 📫
-- <a href="https://www.twitter.com/a_nuragjain" >Twitter</a>   <a href="https://www.twitter.com/a_nuragjain">Instagram</a>   
-- 
-- <a href="https://www.linkedin.com/in/anuragjain-in">Linkedin</a>  
-- <a href="https://t.me/a_nuragjain">Telegram</a>  
-- <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">Youtube</a>  
+<a href="https://www.twitter.com/a_nuragjain" >Twitter</a>   <a href="https://www.twitter.com/a_nuragjain">Instagram</a>    
+<a href="https://www.linkedin.com/in/anuragjain-in">Linkedin</a>  
+<a href="https://t.me/a_nuragjain">Telegram</a>  
+<a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">Youtube</a>  
