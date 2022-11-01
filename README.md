@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- Love Coding 💻 as much as I do? Let's talk about how awesome⚡they are!
+- Love Coding ❤️💻 as much as I do? Let's talk about how awesome⚡they are!
 
 # What I'm Focusing on 🌱
 
