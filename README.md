@@ -17,4 +17,4 @@
 - ✍️📓
 
 # Social 📫
-<a href="https://www.twitter.com/a_nuragjain"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png"></a><a href="https://www.twitter.com/a_nuragjain">Instagram</a><a href="#">Discord</a><a href="https://www.t.me/a_nuragjain">Telegram</a><a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">Youtube</a><a href="https://linkedin.com/in/anuragjain-in">Linkedin</a><a href="mailto:itsanuragjain.03@gmail.com">Email</a>  
+<a href="https://www.twitter.com/a_nuragjain"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" style="width:30px;"></a><a href="https://www.twitter.com/a_nuragjain">Instagram</a><a href="#">Discord</a><a href="https://www.t.me/a_nuragjain">Telegram</a><a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">Youtube</a><a href="https://linkedin.com/in/anuragjain-in">Linkedin</a><a href="mailto:itsanuragjain.03@gmail.com">Email</a>  
