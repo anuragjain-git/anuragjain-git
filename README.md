@@ -5,12 +5,14 @@
 # What I'm Focusing on 🌱
 
 - 👯 I’m currently learning about Back-End Development and improving my Front-End Skills. 
-- 💬 Let's talk about Blockchain, Web3, VR, AI, Problem Solving Algorithm.
+- 💬 Let's talk about Blockchain, Web3, VR, AI, Problem Solving Algorithms...
+- ♾️ Other than this we can talk about Philosophy, Mythology, Science Friction, Paradoxes, Space and Time, Movies and Series, Finance...
 
 # About ME 🤔
 
 - 💻⌨️
-- 📚🕮
+- 📚📖
+- 🕹🎮
 - 🌏✈️
 - ✍️📓
 
