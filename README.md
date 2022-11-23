@@ -5,7 +5,7 @@
 # What I'm Focusing on 🌱
 
 - 👯 I’m currently learning about Back-End Development and improving my Front-End Skills. 
-- 💬 Let's talk about Blockchain, Web3, VR, AI, Problem Solving Algorithms... and how awesome they are!
+- 💬 Let's talk about Blockchain, Web3, VR, AI, Problem Solving Algorithms... and How Awesome they are!
 
 # About ME 🤔
 
