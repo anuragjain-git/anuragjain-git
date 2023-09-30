@@ -1,11 +1,14 @@
 # Hi there 👋
 
-- Love Coding ❤️💻 as much as I do? Let's talk about how awesome⚡they are!
+💻 Love Coding ❤️ as much as I do? Let's talk about how awesome⚡they are!
 
-# What I'm Focusing on 🌱
+💼 I've honed my skills in a variety of technologies, including React, JavaScript, CSS, jQuery, Java, C, and Python. I'm particularly enthusiastic about open-source projects and looking for good-first-issue to start my journey on opensource.
 
-- 👯 I’m currently learning about Back-End Development and improving my Front-End Skills. 
-- 💬 Let's talk about Blockchain, Web3, VR, AI, Problem Solving Algorithms...
+🔬 Currently, I'm eagerly exploring new opportunities to apply my skills and gain real-world experience. Whether it's web development, software engineering, or contributing to exciting projects, I'm excited to take on challenges and continue learning.
+
+🌟 Let's connect! I'm always open to networking, collaborating, and learning from fellow tech enthusiasts and professionals.
+
+#OpenSource #WebDevelopment #SoftwareEngineering #JavaScript #React #Python #Java #CProgramming 
 
 # About ME 🤔
 
