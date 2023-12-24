@@ -32,6 +32,10 @@
 
 <hr/>
 
+![Snake animation](https://github.com/anuragjain-git/anuragjain-git/blob/output/github-contribution-grid-snake.svg)
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
