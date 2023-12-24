@@ -22,4 +22,4 @@ jobs:
 
     - name: Run Python Script
       run: |
-        python .github/scripts/update_readme.py
+        python .github/workflows/update_readme.py
