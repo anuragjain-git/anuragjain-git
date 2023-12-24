@@ -1,24 +1,87 @@
-# Hi there 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git&style=for-the-badge" alt="GitHub Profile Views" width="120">
 
-💻 Love Coding ❤️ as much as I do? Let's talk about how awesome⚡they are!
+<h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Jain!;" />
+</h1>
 
-💼 I've honed my skills in a variety of technologies, including React, JavaScript, CSS, jQuery, Java, C, and Python. I'm particularly enthusiastic about open-source projects and looking for good-first-issue to start my journey on opensource.
+<h3 align="center">Love Coding ❤️ as much as I do? Let's talk about how awesome⚡they are!</h3>
 
-🔬 Currently, I'm eagerly exploring new opportunities to apply my skills and gain real-world experience. Whether it's web development, software engineering, or contributing to exciting projects, I'm excited to take on challenges and continue learning.
+<br />
 
-🌟 Let's connect! I'm always open to networking, collaborating, and learning from fellow tech enthusiasts and professionals.
+<div align="center">
 
-#OpenSource #WebDevelopment #SoftwareEngineering #JavaScript #React #Python #Java #CProgramming 
+🔭 I'm currently working on **AI Bots.**
 
-# About ME 🤔
+🌱 I'm currently learning **React Native, PyTorch, MongoDB.**
 
-- 💻⌨️
-- 📚📖
-- 🕹🎮
-- 🌏✈️
-- ✍️📓
+💬 Ask me about **React, JS, Java, C, Python... or anything [here](https:://github.com/anuragjain-git/anuragjain-git/issues)**
 
-# Social 📫
-<a href="https://www.twitter.com/a_nuragjainn"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="40"></a>  <a href="https://www.instagram.com/a_nuragjain"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40"></a>  <a href="https://www.t.me/a_nuragjain"><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="40"></a>  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png" width="40"></a>  <a href="https://discord.gg/g9EBZfYV"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40"></a>  <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40"></a>  <a href="https://linkedin.com/in/anuragjain-in"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="40"></a>
+</div>
 
-![](https://komarev.com/ghpvc/?username=anuragjain-git&style=for-the-badge)
+<div align="center"> 
+  <a href="mailto:itsanuragjain.03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/anuragjain-in" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://anuragjain-git.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- todoist, sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/streak-stats"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=anuragjain-git&theme=react&border_radius=10" alt="GitHub Streak" /></a>
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=anuragjain-git&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="340" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjain-git&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🕶️ Mastering the Art of Social Media Distraction 🕶️</h2>
+<div align="center">
+  <a href="https://www.twitter.com/a_nuragjainn">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/a_nuragjain">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.t.me/a_nuragjain">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/g9EBZfYV">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anuragjain-in">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="40">
+  </a>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+I'm+always+down+to+collab+:-)" />
+</h1>
