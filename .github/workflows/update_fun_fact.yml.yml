@@ -1,0 +1,20 @@
+name: Update Fun Fact
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set Up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run Python Script
+      run: |
+        python .github/scripts/update_readme.py
