@@ -42,16 +42,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anuragjain-git/anuragjain-git/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="text-align: center;">
@@ -96,4 +86,3 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+I'm+always+down+to+collab+:-)" />
 </h1>
 
-![snake gif](https://github.com/anuragjain-git/anuragjain-git/blob/output/github-contribution-grid-snake.gif)
