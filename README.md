@@ -14,7 +14,7 @@
 
 🌱 I'm currently learning **Flutter, PyTorch, MongoDB.**
 
-💬 Ask me about **React, JS, Java, C, Python... or anything [here](https:://github.com/anuragjain-git/anuragjain-git/issues)**
+💬 Ask me about **React, JS, Java, C, Python... or anything [here](https://github.com/anuragjain-git/anuragjain-git/issues)**
 
 </div>
 
