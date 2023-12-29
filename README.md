@@ -1,4 +1,6 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git&style=for-the-badge" alt="GitHub Profile Views" width="120">
+<a href="https://bitly.ws/3826n">
+      <img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git&style=for-the-badge" alt="GitHub Profile Views">
+</a>
 
 <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Jain!;" />
