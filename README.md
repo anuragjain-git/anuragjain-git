@@ -57,25 +57,25 @@
 <h2 align="center">🕶️ Mastering the Art of Social Media Distraction 🕶️</h2>
 <div align="center">
   <a href="https://www.twitter.com/a_nuragjainn">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/a_nuragjain">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.t.me/a_nuragjain">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/g9EBZfYV">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anuragjain-in">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="35">
   </a>
 </div>
 
