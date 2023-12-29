@@ -1,5 +1,5 @@
 <a href="https://bitly.ws/3826n">
-      <img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git&style=for-the-badge" alt="GitHub Profile Views">
+      <img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git" alt="GitHub Profile Views">
 </a>
 
 <h1 align="center">
