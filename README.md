@@ -18,20 +18,9 @@
 
 💬 Ask me about **React, JS, Java, C, Python... or anything [here](https://github.com/anuragjain-git/anuragjain-git/issues)**
 
-</div>
 
-<div align="center"> 
-  <a href="mailto:itsanuragjain.03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/anuragjain-in" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://anuragjain-git.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- todoist, sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
+<br/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -74,7 +63,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="35">
+    <img src="https://cdn-ic`      `      `      ons-png.flaticon.com/512/3670/3670209.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anuragjain-in">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="35">
