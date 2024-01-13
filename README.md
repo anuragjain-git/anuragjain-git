@@ -36,7 +36,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="text-align: center;">
-  <a href="https://git.io/streak-stats"><img width="370" src="https://github-readme-streak-stats.herokuapp.com?user=anuragjain-git&theme=react&border_radius=10" alt="GitHub Streak" /></a>
   <img width="350" src="https://github-readme-stats.vercel.app/api?username=anuragjain-git&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width="340" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjain-git&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
