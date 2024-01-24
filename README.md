@@ -62,7 +62,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCCEd86oQN9DQcgespRrmT2A">
-    <img src="https://cdn-ic`      `      `      ons-png.flaticon.com/512/3670/3670209.png" width="35">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="35">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anuragjain-in">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670236.png" width="35">
