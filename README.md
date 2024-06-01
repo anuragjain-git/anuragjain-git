@@ -2,11 +2,15 @@
       <img align="right" src="https://komarev.com/ghpvc/?username=anuragjain-git" alt="GitHub Profile Views">
 </a>
 
-<h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Jain!;" />
-</h1>
 
-<h3 align="center">Love Coding ❤️ as much as I do? Let's talk about how awesome⚡they are!</h3>
+<br />
+<!--
+<h1 align="center">
+       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Jain!;" />  
+</h1>
+-->
+
+<h3 align="center">Love Coding ❤️ as much as I do? Let's talk about how awesome they are!</h3>
 
 <br />
 
@@ -72,11 +76,11 @@
 
 <br/>
 <hr/>
--->
+
 <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+I'm+always+down+to+collab+:-)" />
 </h1>
-
+-->
 
 
 <!-- FUN_FACT_PLACEHOLDER -->
