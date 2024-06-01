@@ -12,11 +12,11 @@
 
 <div align="center">
 
-🔭 I'm currently working on **AI Bots.**
+🔭 I'm currently working on **Template Matching using LLMs.**
 
-🌱 I'm currently learning **Flutter, PyTorch, MongoDB.**
+🌱 I'm currently learning **React, Flutter, PHP, MongoDB, MySQL.**
 
-💬 Ask me about **React, JS, Java, C, Python... or anything [here](https://github.com/anuragjain-git/anuragjain-git/issues)**
+💬 Ask me about **Java, DSA, AI... or anything [here](https://github.com/anuragjain-git/anuragjain-git/issues)**
 
 
 <br/>
@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,python,c,mysql" /><br>
 </div>
 
 <br/>
@@ -44,6 +44,7 @@
 <br/>
 <hr/>
 
+<!--
 <h2 align="center">🕶️ Mastering the Art of Social Media Distraction 🕶️</h2>
 <div align="center">
   <a href="https://www.twitter.com/a_nuragjainn">
@@ -71,7 +72,7 @@
 
 <br/>
 <hr/>
-
+-->
 <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+I'm+always+down+to+collab+:-)" />
 </h1>
