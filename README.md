@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🔭 I'm currently working on **Template Matching using LLMs.**
+🔭 I'm currently working on **Template Matching using LLMs and [spam message detection](https://github.com/anuragjain-git/text-classification)**
 
 🌱 I'm currently learning **React, Flutter, PHP, MongoDB, MySQL.**
 
